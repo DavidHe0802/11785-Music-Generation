@@ -57,8 +57,8 @@ Key highlights include:
 All code and datasets are available in the [MusicMindMeld GitHub repository](https://github.com/DavidHe0802/MusicMindMeld).
 
 ## Contributors
-- **Runyu He** (David He): Project Lead and Developer
-- **Junyi Zhu**, **Bochen Wang**, **Yixuan Yin**: Collaborators
+- **Junyi Zhu** (Evelyn Zhu): Project Lead and Developer
+- **Runyu He**, **Bochen Wang**, **Yixuan Yin**: Collaborators
 
 ## Citation
 If you use this work, please cite: 'Runyu He, Junyi Zhu, Bochen Wang, Yixuan Yin. Enhancing Text-to-Audio Generation by Music Classification and Retrieval-Augmented Generation. Proceedings of the 6th International Conference on Computing and Data Science, 2024.'
